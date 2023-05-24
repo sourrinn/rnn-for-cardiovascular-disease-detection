@@ -18,7 +18,7 @@ The RNN for Cardiovascular Disease Detection project is an innovative applicatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/sourrinn/rnn-for-cardiovascular-disease-detection.git
    ```
 
 2. Install the required dependencies:
